@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bark: #3E2723;
+  --color-bark-light: #5D4037;
+  --color-bark-dark: #1B0000;
+  --color-moss: #2E7D32;
+  --color-moss-light: #43A047;
+  --color-moss-dark: #1B5E20;
+  --color-earth: #4E342E;
+  --color-earth-light: #6D4C41;
+  --color-sand: #D7CCC8;
+  --color-sand-light: #EFEBE9;
+  --color-sand-dark: #BCAAA4;
+  --color-ember: #BF360C;
+  --color-ember-light: #E64A19;
+  --color-gold: #F9A825;
+  --color-gold-light: #FDD835;
+  --color-cream: #FFFDF7;
+  --color-parchment: #F5F0E8;
+  --color-charcoal: #1a1a1a;
+  --color-smoke: #6b6b6b;
+  --color-wampum: #4A148C;
+  --color-wampum-light: #7B1FA2;
+  --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-cream);
+    color: var(--color-charcoal);
+    line-height: 1.7;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-serif);
+    line-height: 1.2;
+  }
+
+  ::selection {
+    background-color: var(--color-moss);
+    color: white;
+  }
+
+  blockquote {
+    font-family: var(--font-serif);
+    font-style: italic;
+  }
+}
