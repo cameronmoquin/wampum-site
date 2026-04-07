@@ -44,7 +44,7 @@ export default function Library() {
             <Book
               title="The Tracker"
               author="Tom Brown Jr."
-              description="Brown's memoir of learning from Stalking Wolf. Not a how-to book — a why-to book. It provides the philosophical foundation for everything in the field guides. Understanding why these skills matter changes how you learn them."
+              description="Brown's memoir of learning from Stalking Wolf. Not a how-to book. a why-to book. It provides the philosophical foundation for everything in the field guides. Understanding why these skills matter changes how you learn them."
             />
             <Book
               title="How to Stay Alive in the Woods"
@@ -55,7 +55,7 @@ export default function Library() {
               title="Bushcraft"
               author="Mors Kochanski"
               essential
-              description="The Canadian classic. Kochanski was a wilderness living instructor for over 40 years. Exceptional cold-weather focus — relevant for New England winters. His knife and axe work chapters are unmatched. If you live where it gets cold, read this."
+              description="The Canadian classic. Kochanski was a wilderness living instructor for over 40 years. Exceptional cold-weather focus. relevant for New England winters. His knife and axe work chapters are unmatched. If you live where it gets cold, read this."
             />
             <Book
               title="US Army Survival Manual (FM 21-76)"
@@ -70,7 +70,7 @@ export default function Library() {
               title="The New Organic Grower"
               author="Eliot Coleman"
               essential
-              description="Four-season growing in New England — Coleman farms in Maine and proves you can produce food year-round with simple cold frames and row covers. Practical, detailed, and written by someone who actually does it for a living. The crop planning chapters alone are worth the book."
+              description="Four-season growing in New England. Coleman farms in Maine and proves you can produce food year-round with simple cold frames and row covers. Practical, detailed, and written by someone who actually does it for a living. The crop planning chapters alone are worth the book."
             />
             <Book
               title="The One-Straw Revolution"
@@ -81,7 +81,7 @@ export default function Library() {
               title="The Art of Fermentation"
               author="Sandor Katz"
               essential
-              description="Preservation without electricity. Sauerkraut, kimchi, pickles, miso, vinegar, beer, wine, cheese, yogurt — all products of fermentation. Katz is encyclopedic and passionate. In a world without refrigeration, fermentation is how you keep food safe and nutritious through winter. This book is critical."
+              description="Preservation without electricity. Sauerkraut, kimchi, pickles, miso, vinegar, beer, wine, cheese, yogurt. all products of fermentation. Katz is encyclopedic and passionate. In a world without refrigeration, fermentation is how you keep food safe and nutritious through winter. This book is critical."
             />
             <Book
               title="Small-Scale Grain Raising"
@@ -101,7 +101,7 @@ export default function Library() {
             <Book
               title="Walden Two"
               author="B.F. Skinner"
-              description="The thought experiment. A novel about an intentional community designed using behavioral science. Read it critically — some ideas feel controlling, the planners have too much power, and the novel doesn't solve the authority problem. But the central question — can we design a community that reduces unnecessary suffering? — remains the right question to ask. Take what works."
+              description="The thought experiment. A novel about an intentional community designed using behavioral science. Read it critically. some ideas feel controlling, the planners have too much power, and the novel doesn't solve the authority problem. But the central question. can we design a community that reduces unnecessary suffering?. remains the right question to ask. Take what works."
             />
             <Book
               title="Governing the Commons"
@@ -112,7 +112,7 @@ export default function Library() {
             <Book
               title="Emergent Strategy"
               author="adrienne maree brown"
-              description="Adaptive, relational community building inspired by natural systems. Brown draws from Octavia Butler's science fiction and the Black radical tradition. The core insight: small is good, small is all. Change happens at the scale of relationships. Not a prescriptive model — a way of thinking about how groups grow and adapt."
+              description="Adaptive, relational community building inspired by natural systems. Brown draws from Octavia Butler's science fiction and the Black radical tradition. The core insight: small is good, small is all. Change happens at the scale of relationships. Not a prescriptive model. a way of thinking about how groups grow and adapt."
             />
             <Book
               title="Sacred Economics"
@@ -123,7 +123,7 @@ export default function Library() {
               title="Debt: The First 5,000 Years"
               author="David Graeber"
               essential
-              description="An anthropologist's history of debt, money, and exchange. Graeber demolishes the myth that barter preceded money and shows that human economies have always been built on trust, obligation, and social relationship. If you want to understand what wampum actually was — not the colonial distortion but the real thing — Graeber gives you the framework."
+              description="An anthropologist's history of debt, money, and exchange. Graeber demolishes the myth that barter preceded money and shows that human economies have always been built on trust, obligation, and social relationship. If you want to understand what wampum actually was. not the colonial distortion but the real thing. Graeber gives you the framework."
             />
           </div>
 
@@ -138,10 +138,10 @@ export default function Library() {
               <h4 className="font-serif text-lg font-semibold text-bark">Local Organizations</h4>
               <p className="text-sm text-smoke mb-2">These are doing the work now, in real life, in Rhode Island:</p>
               <ul className="space-y-2 text-sm text-charcoal/80">
-                <li><strong>Southside Community Land Trust</strong> — Community gardens and urban farming in Providence</li>
-                <li><strong>RI Wild Plant Society</strong> — Native plant conservation and education</li>
-                <li><strong>Farm Fresh RI</strong> — Connecting local farms to communities</li>
-                <li><strong>Narragansett Indian Tribe</strong> — 4533 South County Trail, Charlestown, RI</li>
+                <li><strong>Southside Community Land Trust</strong>. Community gardens and urban farming in Providence</li>
+                <li><strong>RI Wild Plant Society</strong>. Native plant conservation and education</li>
+                <li><strong>Farm Fresh RI</strong>. Connecting local farms to communities</li>
+                <li><strong>Narragansett Indian Tribe</strong>. 4533 South County Trail, Charlestown, RI</li>
               </ul>
             </div>
           </div>
@@ -150,7 +150,7 @@ export default function Library() {
           <div className="grid sm:grid-cols-2 gap-4 mb-10">
             <div className="bg-white p-5 border border-charcoal/8">
               <h4 className="font-serif text-lg font-semibold text-charcoal">The WAMPUM Novel</h4>
-              <p className="text-sm text-smoke mb-2">Cameron Moquin — In progress</p>
+              <p className="text-sm text-smoke mb-2">Cameron Moquin. In progress</p>
               <p className="text-sm text-charcoal/80">A post-collapse novel set in western Rhode Island's Arcadia Management Area. A survival community discovers their WAMP wallets still function on the Polygon network. What began as a civic-pride meme coin becomes the only functioning ledger of trade and trust in southern Rhode Island. The story sits with the tension of its own name.</p>
             </div>
             <div className="bg-white p-5 border border-charcoal/8">
@@ -202,7 +202,7 @@ export default function Library() {
           </div>
 
           <p className="text-center text-smoke mt-12 font-serif italic text-lg">
-            "If you are reading this and things are not fine — if the network is still running and you still have a device and you found this document somehow — then you know what WAMP was built for. Use it that way. Trade fairly. Keep the ledger honest. That is all we ever asked of it."
+            "If you are reading this and things are not fine. if the network is still running and you still have a device and you found this document somehow. then you know what WAMP was built for. Use it that way. Trade fairly. Keep the ledger honest. That is all we ever asked of it."
           </p>
         </Prose>
       </ContentSection>

@@ -25,7 +25,7 @@ export default function Layout() {
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Header — clean, minimal, editorial */}
+      {/* Header */}
       <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-charcoal/10">
         <div className="max-w-5xl mx-auto px-4 sm:px-6">
           <div className="flex items-center justify-between h-14">
@@ -68,7 +68,7 @@ export default function Layout() {
         <Outlet />
       </main>
 
-      {/* Footer — understated, informational */}
+      {/* Footer */}
       <footer className="bg-charcoal text-white/60">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 py-12">
           <div className="grid md:grid-cols-3 gap-8 text-sm">

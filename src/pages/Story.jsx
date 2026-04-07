@@ -7,7 +7,7 @@ export default function Story() {
     <>
       <PageHeader
         title="The Story"
-        subtitle="A novel-in-progress set in post-collapse Rhode Island. This is a dispatch from a world that hasn't happened yet."
+        subtitle="A novel in progress set in Rhode Island after the collapse. This is a dispatch from a world that has not happened yet."
       />
 
       {/* Epigraph */}
@@ -24,7 +24,7 @@ export default function Story() {
             <span className="text-3xl text-charcoal/20 leading-none ml-1">&rdquo;</span>
           </blockquote>
           <p className="mt-6 text-sm text-smoke font-sans">
-            — from the novel
+            From the novel
           </p>
         </div>
       </section>
@@ -33,8 +33,8 @@ export default function Story() {
         <Prose>
           <h2 className="font-serif text-3xl text-bark mb-6">The Setting</h2>
           <p>
-            The novel is set in Rhode Island — the smallest state, the most densely
-            populated corner of New England, a place where the ocean and the forest
+            The novel is set in Rhode Island. The smallest state. The most densely
+            populated corner of New England, where the ocean and the forest
             have always been closer together than they should be. The story takes
             place primarily in and around the <strong>Arcadia Management Area</strong>,
             a 14,000-acre tract of forest in western Rhode Island that stretches
@@ -42,7 +42,7 @@ export default function Story() {
           </p>
           <p>
             Arcadia is real. You can drive there now. The trails are marked. The
-            rivers — the Wood River, the Flat River, the Falls River — run through
+            rivers, the Wood River, the Flat River, the Falls River, run through
             granite and rhododendron. In the novel, Arcadia becomes something else:
             the last viable land in southern Rhode Island, high enough above the
             flooding bay, far enough from the coast, dense enough with timber and
@@ -57,8 +57,7 @@ export default function Story() {
           <Prose>
             <h2 className="font-serif text-3xl text-bark mb-6">The Collapse</h2>
             <p>
-              It does not happen all at once. That is the thing nobody prepared for —
-              not the speed of it, but the slowness. The collapse is cascading and
+              It does not happen all at once. Nobody prepared for the slowness. The collapse is cascading and
               compound: climate change drives coastal flooding that swallows
               Warwick, Cranston, parts of East Providence. The bay rises. The
               insurance companies leave before the water does.
@@ -72,12 +71,11 @@ export default function Story() {
               And then the reactor.
             </p>
             <p>
-              The <strong>URI Research Reactor</strong> in Kingston — a small facility,
-              well-maintained, no Chernobyl — suffers a contained but consequential
+              The <strong>URI Research Reactor</strong> in Kingston. a small facility,
+              well maintained, no Chernobyl, suffers a contained but consequential
               meltdown during a grid failure. The contamination zone is limited.
               The panic is not. Kingston, Wakefield, Narragansett, and most of
-              South Kingstown become an exclusion area. Not because the radiation
-              demands it everywhere, but because the evacuation order is given and
+              South Kingstown become an exclusion area. The evacuation order is given and
               never rescinded. There is no one left to rescind it.
             </p>
           </Prose>
@@ -88,7 +86,7 @@ export default function Story() {
               The land didn't know it was supposed to be dangerous. The trees
               kept growing. The deer came back before the people did.&rdquo;
             </p>
-            <p className="mt-4 text-sm text-smoke font-sans">— from the novel</p>
+            <p className="mt-4 text-sm text-smoke font-sans">from the novel</p>
           </blockquote>
         </ContentSection>
       </section>
@@ -98,11 +96,11 @@ export default function Story() {
         <Prose>
           <h2 className="font-serif text-3xl text-bark mb-6">The Token</h2>
           <p>
-            Before the collapse, a small group of Providence residents — the
-            Community Gardeners — minted a token called WAMPUM on the Polygon
-            blockchain. It was a civic-pride project, part meme coin, part
+            Before the collapse, a small group of Providence residents called
+            the Community Gardeners minted a token called WAMPUM on the Polygon
+            blockchain. It was a civic pride project, part meme coin, part
             thought experiment, part earnest preparation. They wrote a README
-            explaining why. They cited the history of wampum — the real wampum,
+            explaining why. They cited the history of wampum. The real wampum,
             the shell beads of the Narragansett and Wampanoag, the ledger that
             preceded every European one.
           </p>
@@ -113,9 +111,9 @@ export default function Story() {
           </p>
           <p>
             After the collapse, when banks close and cash becomes abstract,
-            the WAMP wallets still function. The Polygon network — running on
+            the WAMP wallets still function. The Polygon network runs on
             distributed international servers, maintained by validators in
-            Europe and Asia and South America — continues operating long after
+            Europe and Asia and South America. It continues operating long after
             US infrastructure has degraded. A transaction costs a fraction of
             a cent. It clears in two seconds. It requires no institution, no
             permission, no open branch office.
@@ -133,7 +131,7 @@ export default function Story() {
             stopped being a thing and twenty WAMP was a week of eggs from
             the Hendersons and that was not a joke at all.&rdquo;
           </p>
-          <p className="mt-4 text-sm text-smoke font-sans">— from the novel</p>
+          <p className="mt-4 text-sm text-smoke font-sans">from the novel</p>
         </blockquote>
       </ContentSection>
 
@@ -144,7 +142,7 @@ export default function Story() {
             <h2 className="font-serif text-3xl text-bark mb-6">The Narragansett Connection</h2>
             <p>
               The Narragansett Nation headquarters sits at 4533 South County Trail
-              in Charlestown, Rhode Island — within the Arcadia area, within the
+              in Charlestown, Rhode Island, within the Arcadia area, within the
               geography of the novel. The Narragansett have been on this land for
               over 10,000 years. They survived the Great Swamp Massacre. They
               survived colonization, termination, and the long bureaucratic violence
@@ -152,14 +150,14 @@ export default function Story() {
             </p>
             <p>
               The novel does not look away from this. The tension of occupying
-              indigenous land — of naming a token after the currency of the people
-              whose home you are sheltering in — is addressed directly. The
-              Community Gardeners are not heroes. They are people who prepared
+              indigenous land, of naming a token after the currency of the people
+              whose home you are sheltering in, is addressed directly. The
+              Community Gardeners are people who prepared
               better than most and who must now reckon with what it means to build
               a new economy on old ground.
             </p>
             <p>
-              The Narragansett characters in the novel are not props. They have
+              The Narragansett characters in the novel have
               their own story, their own relationship to the collapse, their own
               long memory of what it means when a civilization fails. They have
               seen it before.
@@ -170,11 +168,10 @@ export default function Story() {
             <p className="font-serif text-base sm:text-lg text-earth italic leading-loose">
               &ldquo;You named your internet money after our money,&rdquo; she said.
               &ldquo;And now you're on our land using it to buy our food.&rdquo;
-              She was not smiling but she was not angry either. She was stating
-              facts the way you state weather. &ldquo;We should probably talk
+              She was stating facts. &ldquo;We should probably talk
               about that.&rdquo;
             </p>
-            <p className="mt-4 text-sm text-smoke font-sans">— from the novel</p>
+            <p className="mt-4 text-sm text-smoke font-sans">from the novel</p>
           </blockquote>
         </ContentSection>
       </section>
@@ -186,7 +183,7 @@ export default function Story() {
           <p>
             Rhode Island is 1,214 square miles. It takes an hour to drive across
             it, or it did when the roads were maintained and the gas was available.
-            Now the geography is felt differently. The bay — Narragansett Bay —
+            Now the geography is different. Narragansett Bay
             cuts the state nearly in half. The East Bay is largely flooded or
             abandoned. Providence holds on, barely, around College Hill and the
             West Side. The rest is a negotiation between water and what the water
@@ -195,14 +192,14 @@ export default function Story() {
           <p>
             West of the bay, the land rises. Oak and hickory forests. Glacial
             ponds. Stone walls from farms that failed two centuries ago. The
-            Arcadia Management Area becomes the center of gravity — not because
+            Arcadia Management Area becomes the center of gravity. not because
             anyone planned it, but because it has what people need: trees for
             fuel, rivers for water, soil that will grow things if you know
             how to ask it.
           </p>
           <p>
             Communities form around gardens and trade routes. The old rail
-            trails — the South County Bike Path, the Washington Secondary —
+            trails. the South County Bike Path, the Washington Secondary.
             become walking highways. Bridges matter more than they ever did.
             A functioning well is worth more than a house with plumbing that
             no longer connects to anything.
@@ -213,7 +210,7 @@ export default function Story() {
           <InfoCard title="Narragansett Bay">
             The bay defines everything. Rising water has reshaped the coastline.
             Fishing is possible but the catch is different now. The shellfishing
-            beds — the quahog beds that once produced wampum — are still there,
+            beds. the quahog beds that once produced wampum. are still there,
             shallower and warmer.
           </InfoCard>
           <InfoCard title="The Arcadia Forests">

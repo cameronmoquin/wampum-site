@@ -7,7 +7,7 @@ const cards = [
     to: '/story',
     icon: <IconBook className="w-5 h-5" />,
     title: 'The Story',
-    desc: 'Post-collapse Rhode Island. A novel-in-progress about what comes after.',
+    desc: 'Rhode Island after the collapse. A novel in progress about what comes after.',
   },
   {
     to: '/wampum',
@@ -44,7 +44,7 @@ const cards = [
 export default function Home() {
   return (
     <>
-      {/* Hero — editorial, stark */}
+      {/* Hero, editorial, stark */}
       <section className="bg-charcoal text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 py-20 sm:py-32">
           <p className="text-xs sm:text-sm uppercase tracking-[0.25em] text-white/40 mb-6 font-sans">
@@ -64,15 +64,14 @@ export default function Home() {
         <div className="max-w-3xl mx-auto px-6 sm:px-8 py-14 sm:py-20">
           <blockquote className="font-serif text-base sm:text-lg text-charcoal/70 leading-loose italic">
             We are writing this in April 2026. The supply chain is thin. The news is bad
-            in the way that bad news has been bad for several years now — not catastrophically,
-            not yet, but in the way a body runs a low fever for so long you stop noticing it
-            until you do. We are noticing it. We have been preparing. This token is part of
+            and has been bad for several years now. It keeps getting worse in small increments.
+            We are noticing it. We have been preparing. This token is part of
             that preparation. We want to explain what it is and why we built it the way we
             built it, because if things go the way we think they might go, this document will
             matter more than it does today. We are writing it now so it exists.
           </blockquote>
           <p className="mt-8 text-xs text-smoke tracking-wide uppercase">
-            — The Community Gardeners, Providence, Rhode Island
+            The Community Gardeners, Providence, Rhode Island
           </p>
         </div>
       </section>
@@ -84,7 +83,7 @@ export default function Home() {
         </h2>
         <p className="text-smoke max-w-2xl mb-10 leading-relaxed text-sm">
           Each section is a chapter. Together they form something between a manual
-          and a memoir — practical knowledge wrapped in the story of why it was gathered.
+          and a memoir. Practical knowledge wrapped in the story of why it was gathered.
         </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-px bg-charcoal/8">
           {cards.map((card) => (
@@ -123,7 +122,7 @@ export default function Home() {
             </p>
             <p>
               The field guide is real. The survival knowledge is real. The token
-              is real — 100 million WAMP on the Polygon blockchain, minted April 2026,
+              is real. 100 million WAMP on the Polygon blockchain, minted April 2026,
               immutable and ownerless. The story wrapped around all of it is fiction,
               but only barely, and only for now.
             </p>

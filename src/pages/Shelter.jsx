@@ -59,19 +59,19 @@ export default function Shelter() {
                 <strong>Ridgepole:</strong> Find a sturdy branch or small tree, roughly 9-12 feet long. Prop one end on a stump, rock, or tree fork about 3 feet high. The other end rests on the ground. This is the spine of your shelter. You'll lie underneath it. It should be just wide enough that you can lie under it without rolling out, and just tall enough to sit up slightly.
               </li>
               <li>
-                <strong>Ribbing:</strong> Lean sticks against both sides of the ridgepole, angled about 45 degrees, like the ribs of a skeleton. Space them every 6-8 inches. They should be long enough to reach from the ridgepole to the ground. The narrower the interior, the warmer you'll be — your body heat warms the space.
+                <strong>Ribbing:</strong> Lean sticks against both sides of the ridgepole, angled about 45 degrees, like the ribs of a skeleton. Space them every 6-8 inches. They should be long enough to reach from the ridgepole to the ground. The narrower the interior, the warmer you'll be. your body heat warms the space.
               </li>
               <li>
                 <strong>Lattice:</strong> Weave smaller sticks horizontally through the ribs. This creates a framework to hold debris. Without the lattice, your insulation falls through.
               </li>
               <li>
-                <strong>Debris — exterior:</strong> Pile leaves, pine needles, ferns, grass, and forest debris over the entire structure. Minimum 2-3 feet thick on all sides. This is your insulation. More is better. When you think you have enough, add more. The debris traps dead air, which is what keeps you warm.
+                <strong>Debris. exterior:</strong> Pile leaves, pine needles, ferns, grass, and forest debris over the entire structure. Minimum 2-3 feet thick on all sides. This is your insulation. More is better. When you think you have enough, add more. The debris traps dead air, which is what keeps you warm.
               </li>
               <li>
-                <strong>Debris — interior:</strong> Fill the inside with the driest, fluffiest leaves you can find. Pile them deep — you'll compress them when you climb in. This is your mattress and sleeping bag. You need at least 6 inches of compressed debris beneath you and enough to burrow into above.
+                <strong>Debris. interior:</strong> Fill the inside with the driest, fluffiest leaves you can find. Pile them deep. you'll compress them when you climb in. This is your mattress and sleeping bag. You need at least 6 inches of compressed debris beneath you and enough to burrow into above.
               </li>
               <li>
-                <strong>Door plug:</strong> Build a separate bundle of debris compressed into a mat or stuffed into a bag/jacket. Use it to plug the entrance after you climb in. Heat loss through the opening is the biggest weakness — seal it.
+                <strong>Door plug:</strong> Build a separate bundle of debris compressed into a mat or stuffed into a bag/jacket. Use it to plug the entrance after you climb in. Heat loss through the opening is the biggest weakness. seal it.
               </li>
             </ol>
 
@@ -87,27 +87,27 @@ export default function Shelter() {
               <li>Lash or prop a horizontal ridgepole between two trees, about 4-5 feet high</li>
               <li>Lean long branches against the ridgepole at 45-60 degrees, creating a sloped wall</li>
               <li>Weave smaller branches through for lattice</li>
-              <li>Cover with debris, bark, or a tarp — thick layer for insulation</li>
+              <li>Cover with debris, bark, or a tarp. thick layer for insulation</li>
               <li>Build a long fire 4-5 feet in front of the opening, parallel to the lean-to</li>
-              <li>Build a fire reflector wall behind the fire — stack green logs or rocks to bounce heat toward you</li>
+              <li>Build a fire reflector wall behind the fire. stack green logs or rocks to bounce heat toward you</li>
             </ol>
-            <p className="text-sm text-smoke mt-3 italic">The lean-to with fire reflector is an open shelter — less warm than a debris hut alone, but the fire makes up the difference and then some. Good for mild conditions or when you want fire warmth.</p>
+            <p className="text-sm text-smoke mt-3 italic">The lean-to with fire reflector is an open shelter. less warm than a debris hut alone, but the fire makes up the difference and then some. Good for mild conditions or when you want fire warmth.</p>
           </div>
 
           <div className="bg-white p-6 border border-charcoal/8 mb-6">
             <h3 className="font-serif text-2xl font-semibold text-bark mb-3">Snow Shelter (Quinzhee)</h3>
             <p className="text-sm text-charcoal/60 font-medium mb-3">For winter conditions. RI gets enough snow for this in most winters.</p>
             <ol className="list-decimal list-inside space-y-2 text-charcoal/80">
-              <li>Pile snow into a mound 6-8 feet high, 8-10 feet in diameter. Mix snow types — this causes sintering (bonding)</li>
+              <li>Pile snow into a mound 6-8 feet high, 8-10 feet in diameter. Mix snow types. this causes sintering (bonding)</li>
               <li>Let the mound settle for 1-2 hours minimum. The snow crystals bond together.</li>
               <li>Insert foot-long sticks throughout the mound to a uniform depth (12-18 inches). These are thickness guides.</li>
-              <li>Hollow out the interior from one side. When you hit the tips of the sticks, stop — the wall is thick enough.</li>
-              <li>Carve a sleeping platform higher than the entrance — warm air rises and collects above the door level.</li>
-              <li>Poke a ventilation hole in the roof with a stick. Critical — carbon dioxide buildup can kill you in a sealed snow shelter.</li>
-              <li>The entrance should angle downward from the interior — cold air sinks out.</li>
+              <li>Hollow out the interior from one side. When you hit the tips of the sticks, stop. the wall is thick enough.</li>
+              <li>Carve a sleeping platform higher than the entrance. warm air rises and collects above the door level.</li>
+              <li>Poke a ventilation hole in the roof with a stick. Critical. carbon dioxide buildup can kill you in a sealed snow shelter.</li>
+              <li>The entrance should angle downward from the interior. cold air sinks out.</li>
             </ol>
             <Callout type="warning">
-              <p><strong>Safety:</strong> Always maintain a ventilation hole. Never use a stove or open flame inside — carbon monoxide risk. Keep a digging tool inside in case the entrance collapses. Mark the outside so nobody walks on it.</p>
+              <p><strong>Safety:</strong> Always maintain a ventilation hole. Never use a stove or open flame inside. carbon monoxide risk. Keep a digging tool inside in case the entrance collapses. Mark the outside so nobody walks on it.</p>
             </Callout>
           </div>
 
@@ -147,17 +147,17 @@ export default function Shelter() {
             </div>
             <div>
               <h4 className="font-semibold text-bark">Waterproof from the Top</h4>
-              <p className="text-sm text-smoke">Layer debris like shingles — start at the bottom and overlap upward. Water runs down and off. Bark (especially birch and poplar) makes excellent shingle material. A thick enough debris layer (3+ feet) is waterproof on its own.</p>
+              <p className="text-sm text-smoke">Layer debris like shingles. start at the bottom and overlap upward. Water runs down and off. Bark (especially birch and poplar) makes excellent shingle material. A thick enough debris layer (3+ feet) is waterproof on its own.</p>
             </div>
           </div>
 
           <div className="mt-12 p-6 bg-parchment border border-charcoal/8">
             <h3 className="font-serif text-xl font-semibold text-bark mb-2">Essential Reading</h3>
             <p className="text-smoke mb-2">
-              <strong>Tom Brown Jr., <em>Field Guide to Wilderness Survival</em></strong> — The debris hut chapter is the foundation of everything above. Brown's shelter techniques are tested across decades in all conditions.
+              <strong>Tom Brown Jr., <em>Field Guide to Wilderness Survival</em></strong>. The debris hut chapter is the foundation of everything above. Brown's shelter techniques are tested across decades in all conditions.
             </p>
             <p className="text-smoke">
-              <strong>Mors Kochanski, <em>Bushcraft</em></strong> — Canadian perspective. Excellent cold-weather shelter techniques, particularly for winter camping and long-term wilderness living.
+              <strong>Mors Kochanski, <em>Bushcraft</em></strong>. Canadian perspective. Excellent cold-weather shelter techniques, particularly for winter camping and long-term wilderness living.
             </p>
           </div>
         </Prose>

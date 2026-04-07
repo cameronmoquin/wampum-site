@@ -7,7 +7,7 @@ export default function Wampum() {
     <div>
       <PageHeader
         title="WAMPUM Token"
-        subtitle="A blockchain ledger for cooperative exchange — doing what the wampum belt always did."
+        subtitle="A blockchain ledger for cooperative exchange. doing what the wampum belt always did."
       />
 
       {/* Token Info */}
@@ -85,14 +85,14 @@ export default function Wampum() {
             Wampum beads are among the oldest manufactured items in North America. Archaeological evidence
             dates shell beads to at least 4,500 years ago. The word itself comes from the Algonquian
             <em> wampumpeag</em>, meaning "white strings of shell beads." Long before European contact,
-            these beads carried meaning across the Eastern Woodlands — they were sacred, diplomatic,
+            these beads carried meaning across the Eastern Woodlands. they were sacred, diplomatic,
             ceremonial, and deeply personal.
           </p>
 
           <h3 className="font-serif text-2xl font-semibold text-bark">Two Shells</h3>
           <p>
             Wampum was made from two species of marine shell. The <strong>channeled whelk</strong> and
-            the <strong>knobbed whelk</strong> provided white beads, cut from the columella — the dense
+            the <strong>knobbed whelk</strong> provided white beads, cut from the columella. the dense
             central pillar of the shell. The <strong>quahog</strong>, or hard clam (<em>Mercenaria
             mercenaria</em>), provided the rarer and more valued purple beads, cut from a thin streak of
             deep purple found in only some shells. Purple wampum was worth roughly twice the white.
@@ -105,7 +105,7 @@ export default function Wampum() {
             communities whose population exceeded 10,000 at contact. Alongside the Pequots, the
             Narragansett controlled much of the wampum production along the southern New England coast.
             The shell beds of Narragansett Bay were among the most productive in the region. Wampum
-            production was skilled, specialized labor — the work of artisans, not assembly lines.
+            production was skilled, specialized labor. the work of artisans, not assembly lines.
           </p>
 
           <h3 className="font-serif text-2xl font-semibold text-bark">Manufacturing</h3>
@@ -113,7 +113,7 @@ export default function Wampum() {
             Making wampum by hand was painstaking and dangerous. The shell was broken with a hammerstone
             to isolate the usable sections. A stone drill called a <em>puckwhegonnautick</em> was used
             to bore the tiny holes through each bead. Water had to be dripped continuously onto the drill
-            point to prevent heat fracture — one slip and the bead shattered. The silica dust produced by
+            point to prevent heat fracture. one slip and the bead shattered. The silica dust produced by
             drilling cut into the lungs of the makers over time. Once drilled, beads were strung on plant
             fiber or sinew and rolled against a grinding stone to achieve their final cylindrical shape.
             A single belt could represent months of labor.
@@ -130,7 +130,7 @@ export default function Wampum() {
           </blockquote>
           <p>
             The colors carried specific meaning. <strong>White wampum</strong> signified peace, purity,
-            and friendship. <strong>Purple wampum</strong> signified war, death, and grieving — but also
+            and friendship. <strong>Purple wampum</strong> signified war, death, and grieving. but also
             solemnity, gravity, and the weight of important matters. Wampum belts encoded information.
             They recorded treaties, alliances, declarations of war, condolences, and histories. They
             worked across language barriers because the patterns themselves held meaning that trained
@@ -141,27 +141,27 @@ export default function Wampum() {
           <p>
             The <strong>Two Row Wampum Treaty</strong> of 1613, between the Haudenosaunee and the Dutch,
             is one of the earliest known diplomatic agreements between Indigenous nations and Europeans.
-            Two parallel purple rows on a white field represent two vessels — a canoe and a ship —
+            Two parallel purple rows on a white field represent two vessels. a canoe and a ship.
             traveling side by side down the same river, neither steering the other's course. It is a
             treaty of mutual respect and non-interference.
           </p>
           <p>
             The <strong>Hiawatha Belt</strong> records the founding of the Iroquois Confederacy (the
-            Haudenosaunee), one of the oldest participatory democracies in the world. Five nations — the
-            Mohawk, Oneida, Onondaga, Cayuga, and Seneca — bound together under the Great Law of Peace,
+            Haudenosaunee), one of the oldest participatory democracies in the world. Five nations. the
+            Mohawk, Oneida, Onondaga, Cayuga, and Seneca. bound together under the Great Law of Peace,
             recorded in wampum.
           </p>
 
           <h3 className="font-serif text-2xl font-semibold text-bark">Contact and Collapse</h3>
           <p>
-            Giovanni da Verrazano arrived in Narragansett Bay in 1524 — nearly a century before the
+            Giovanni da Verrazano arrived in Narragansett Bay in 1524. nearly a century before the
             Pilgrims. The Dutch came specifically for wampum. Isaac de Rasiere, a Dutch trader, brought
             wampum to Plymouth Colony in 1627 and demonstrated its value as a trade medium. By 1637,
             wampum was declared legal tender in the Massachusetts Bay Colony.
           </p>
           <p>
             Then came the collapse. European metal drill bits made mass production possible. Dutch and
-            English entrepreneurs set up wampum factories — first in New Amsterdam, then across the
+            English entrepreneurs set up wampum factories. first in New Amsterdam, then across the
             coast. Counterfeit and machine-made beads flooded the market, destroying the value that had
             been maintained by the difficulty and artistry of hand production. The fur trade, which wampum
             had lubricated, collapsed as beaver populations were hunted out. And then came war.
@@ -171,7 +171,7 @@ export default function Wampum() {
             Massacre</strong> in December 1675 killed between 300 and 600 Narragansett men, women, and
             children in a surprise winter attack on their fortified village in what is now South
             Kingstown, Rhode Island. It was one of the deadliest single engagements in colonial American
-            history. The Narragansett Nation was shattered — but not destroyed.
+            history. The Narragansett Nation was shattered. but not destroyed.
           </p>
 
           <h3 className="font-serif text-2xl font-semibold text-bark">Today</h3>
@@ -179,8 +179,8 @@ export default function Wampum() {
             The Narragansett Nation received federal recognition in 1983 after a long legal fight. They
             hold approximately 1,800 acres in Charlestown, Rhode Island. Allen Hazard, a Narragansett
             tribal member, operates <strong>The Purple Shell</strong>, where he makes wampum using
-            traditional methods — the same shells, the same techniques, the same patience. The tradition
-            never died. It was suppressed, commercialized, nearly erased — but people kept making it the
+            traditional methods. the same shells, the same techniques, the same patience. The tradition
+            never died. It was suppressed, commercialized, nearly erased. but people kept making it the
             right way.
           </p>
         </Prose>
@@ -196,7 +196,7 @@ export default function Wampum() {
             after the fact. The agreement is in the pattern, visible to anyone who reads it.
           </p>
           <p>
-            This is not an appropriation — it is an acknowledgment of the charge. Wampum was the
+            This is not an appropriation. it is an acknowledgment of the charge. Wampum was the
             original ledger technology on this continent. It recorded treaties that colonial governments
             later broke. It held meaning that colonial economies could not comprehend and so reduced to
             "Indian money." The recognition deserved to be spoken rather than buried.
@@ -218,7 +218,7 @@ export default function Wampum() {
             WAMP is a community token. It has no guaranteed monetary value and should not be treated as
             an investment. Cryptocurrency is volatile and unregulated. Do not spend money you cannot
             afford to lose. We make no promises about price, returns, or future value. This project is
-            an experiment in cooperative economics — nothing more, nothing less.
+            an experiment in cooperative economics. nothing more, nothing less.
           </p>
         </Callout>
         <Prose>

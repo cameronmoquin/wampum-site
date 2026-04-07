@@ -1,4 +1,4 @@
-// Clean SVG icon system — no emojis, no decoration
+// SVG icon system
 // All icons are 24x24 by default, stroke-based, minimal
 
 export function IconFire({ className = "w-6 h-6" }) {
@@ -125,7 +125,7 @@ export function IconX({ className = "w-6 h-6" }) {
   )
 }
 
-// Placeholder for images — clean gray box
+// Placeholder for images
 export function ImagePlaceholder({ className = "", aspectRatio = "16/9", label }) {
   return (
     <div

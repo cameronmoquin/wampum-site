@@ -53,16 +53,15 @@ export default function FieldGuide() {
       <ContentSection>
         <Prose>
           <p>
-            This is not a survivalist manifesto. It is a collection of skills that humans practiced
-            for most of history &mdash; skills that kept people alive, fed, warm, and connected to
-            the land long before electricity, supply chains, or grocery stores. These are the things
+            This is a collection of skills that humans practiced for most of history. Skills that kept people alive, fed, warm, and connected to
+            the land long before electricity, supply chains, or grocery stores. The things
             your great-grandparents knew. The things indigenous peoples refined over thousands of
             years. The things we forgot because convenience made them seem unnecessary.
           </p>
           <p>
-            In Rhode Island &mdash; with its rocky coastline, dense hardwood forests, salt marshes,
-            and cold winters &mdash; knowing how to work with the land is not a hobby. It is a form
-            of respect. And if the lights ever go out for good, it becomes the difference between
+            Rhode Island has rocky coastline, dense hardwood forests, salt marshes,
+            and cold winters. Knowing how to work with the land here is a form
+            of respect. If the lights ever go out for good, it becomes the difference between
             thriving and not.
           </p>
           <p>
@@ -97,7 +96,7 @@ export default function FieldGuide() {
               Tom Brown Jr.'s <em>Field Guide to Wilderness Survival</em> is the single best
               resource for learning these skills in depth. Brown learned tracking and survival from
               Stalking Wolf, a Lipan Apache elder, and spent decades teaching thousands of students
-              at his Tracker School in New Jersey. His books are practical, field-tested, and written
+              at his Tracker School in New Jersey. His books are practical, tested in the field, and written
               with deep respect for the land. If you own one survival book, make it that one.
             </p>
           </Callout>
@@ -106,7 +105,7 @@ export default function FieldGuide() {
             <p className="font-semibold mb-1">Safety Disclaimer</p>
             <p>
               Everything in this field guide is educational. Do not attempt unfamiliar skills in
-              emergency conditions for the first time. Practice fire-building, shelter construction,
+              emergency conditions for the first time. Practice building fire, shelter construction,
               water purification, and plant identification in safe, controlled settings before you
               need them. Learn with experienced people when possible. Misidentifying a plant can kill
               you. A poorly managed fire can burn down a forest. Respect the knowledge, respect the

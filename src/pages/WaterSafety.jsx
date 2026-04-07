@@ -27,12 +27,12 @@ export default function WaterSafety() {
 
           <h3 className="text-2xl font-serif font-semibold text-bark mt-8 mb-3">Sources, Best to Worst</h3>
           <ol className="list-decimal list-inside space-y-3 ml-4 text-charcoal/80">
-            <li><strong>Springs:</strong> Water emerging from the ground is often the cleanest natural source. Look for green vegetation on hillsides in otherwise dry areas. Still purify it — giardia doesn't care how clean it looks.</li>
+            <li><strong>Springs:</strong> Water emerging from the ground is often the cleanest natural source. Look for green vegetation on hillsides in otherwise dry areas. Still purify it. giardia doesn't care how clean it looks.</li>
             <li><strong>Moving streams and rivers:</strong> Flowing water is generally safer than still water. Collect upstream from any settlements, agriculture, or roads. The Pawtuxet, Wood, Pawcatuck rivers all flow through western RI.</li>
-            <li><strong>Rain collection:</strong> Rainwater is essentially distilled. Collect from tarps or clean roof surfaces. First-flush from a roof carries debris — let the first few minutes run off, then collect.</li>
-            <li><strong>Freshwater ponds and lakes:</strong> Abundant in RI. Higher risk of contamination — agricultural runoff, algae blooms, bacteria. Always purify thoroughly.</li>
+            <li><strong>Rain collection:</strong> Rainwater is essentially distilled. Collect from tarps or clean roof surfaces. First-flush from a roof carries debris. let the first few minutes run off, then collect.</li>
+            <li><strong>Freshwater ponds and lakes:</strong> Abundant in RI. Higher risk of contamination. agricultural runoff, algae blooms, bacteria. Always purify thoroughly.</li>
             <li><strong>Dew collection:</strong> Tie absorbent cloth around your ankles and walk through tall grass at dawn. Wring into a container. Slow but reliable on dewy mornings.</li>
-            <li><strong>Transpiration bag:</strong> Tie a clear plastic bag around a leafy tree branch in the sun. Condensation collects inside. Yields small amounts — 1-2 cups per bag per day.</li>
+            <li><strong>Transpiration bag:</strong> Tie a clear plastic bag around a leafy tree branch in the sun. Condensation collects inside. Yields small amounts. 1-2 cups per bag per day.</li>
           </ol>
 
           <Callout type="warning">
@@ -45,7 +45,7 @@ export default function WaterSafety() {
             <div className="bg-white p-6 border border-charcoal/8">
               <h3 className="font-serif text-xl font-semibold text-bark mb-3">1. Boiling</h3>
               <p className="text-sm text-charcoal/60 font-medium mb-2">Most reliable method. Kills all biological pathogens.</p>
-              <p className="text-charcoal/80">Bring water to a <strong>rolling boil for 1 full minute</strong>. At elevations above 6,500 feet, boil for 3 minutes. That's it. Does not remove chemical contaminants or heavy metals. Does not remove sediment — pre-filter through cloth if the water is murky. Requires fuel and a container — plan accordingly.</p>
+              <p className="text-charcoal/80">Bring water to a <strong>rolling boil for 1 full minute</strong>. At elevations above 6,500 feet, boil for 3 minutes. That's it. Does not remove chemical contaminants or heavy metals. Does not remove sediment. pre-filter through cloth if the water is murky. Requires fuel and a container. plan accordingly.</p>
             </div>
 
             <div className="bg-white p-6 border border-charcoal/8">
@@ -66,13 +66,13 @@ export default function WaterSafety() {
               <div className="bg-parchment p-5 border border-charcoal/8">
                 <h4 className="font-semibold text-bark mb-3">DIY Sand & Charcoal Filter</h4>
                 <ol className="list-decimal list-inside space-y-2 text-sm text-charcoal/80">
-                  <li>Cut the bottom off a large plastic bottle (2-liter or larger). Invert it — the neck opening is now the bottom/spout.</li>
+                  <li>Cut the bottom off a large plastic bottle (2-liter or larger). Invert it. the neck opening is now the bottom/spout.</li>
                   <li>Stuff a cloth or grass plug into the neck to prevent material from falling out.</li>
                   <li>Add layers in this order (bottom to top):
                     <ul className="list-disc list-inside ml-6 mt-1 space-y-1">
                       <li>Small gravel (1 inch layer)</li>
                       <li>Coarse sand (2 inches)</li>
-                      <li>Crushed charcoal from a hardwood fire — NOT briquettes (3-4 inches)</li>
+                      <li>Crushed charcoal from a hardwood fire. NOT briquettes (3-4 inches)</li>
                       <li>Fine sand (2 inches)</li>
                       <li>Small gravel top layer (1 inch)</li>
                     </ul>
@@ -92,7 +92,7 @@ export default function WaterSafety() {
             <div className="bg-white p-6 border border-charcoal/8">
               <h3 className="font-serif text-xl font-semibold text-bark mb-3">5. Distillation</h3>
               <p className="text-sm text-charcoal/60 font-medium mb-2">For saltwater or heavily contaminated sources. Energy-intensive.</p>
-              <p className="text-charcoal/80">Boil water, capture the steam, and condense it back into liquid. A simple still: pot with a lid, tubing from the lid to a collection container, with the tubing running through cold water to condense steam. Removes salt, heavy metals, and most chemical contaminants. Slow — produces small quantities. Reserve for when other methods aren't viable.</p>
+              <p className="text-charcoal/80">Boil water, capture the steam, and condense it back into liquid. A simple still: pot with a lid, tubing from the lid to a collection container, with the tubing running through cold water to condense steam. Removes salt, heavy metals, and most chemical contaminants. Slow. produces small quantities. Reserve for when other methods aren't viable.</p>
             </div>
           </div>
 
@@ -112,7 +112,7 @@ export default function WaterSafety() {
             <li>Connect downspout to a food-grade barrel (55 gallon) with a screen to keep debris and mosquitoes out</li>
             <li>Install a spigot near the bottom for easy access</li>
             <li>Overflow pipe directs excess to a second barrel or away from the foundation</li>
-            <li>Purify before drinking — rooftop runoff carries bird droppings, dust, and debris</li>
+            <li>Purify before drinking. rooftop runoff carries bird droppings, dust, and debris</li>
           </ol>
         </Prose>
       </ContentSection>
