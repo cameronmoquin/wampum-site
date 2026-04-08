@@ -47,8 +47,8 @@ export default function Community() {
               <p>If you want people to cook together, build a kitchen people want to be in. If you want people to share tools, make the tool library easier to use than buying your own. Behavioral design is architecture, not coercion. You make the good thing the easy thing.</p>
             </InfoCard>
 
-            <InfoCard title="Children Belong to Everyone">
-              <p>The idea that raising children is the sole responsibility of biological parents is historically bizarre. Most human societies shared the work. Children benefit from multiple trusted adults. Parents benefit from help. This is Tuesday in most of human history.</p>
+            <InfoCard title="Shared Childcare and Education">
+              <p>Raising children alone in a nuclear household is a recent experiment. For most of human history, childcare was distributed across a community. Multiple trusted adults teaching, watching, feeding. Parents still parent. The village still shows up. Kids do better with more adults who care. Parents do better with help.</p>
             </InfoCard>
 
             <InfoCard title="Transparency Over Trust">

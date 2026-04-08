@@ -42,14 +42,15 @@ export default function Library() {
               description="The companion to the survival guide. Identification, preparation, and medicinal use of Northeast species. Brown's approach combines indigenous knowledge with field-tested practice. The illustrations are hand-drawn and specific enough for confident identification."
             />
             <Book
-              title="The Tracker"
-              author="Tom Brown Jr."
-              description="Brown's memoir of learning from Stalking Wolf. Not a how-to book. a why-to book. It provides the philosophical foundation for everything in the field guides. Understanding why these skills matter changes how you learn them."
+              title="The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm"
+              author="Lewis Dartnell"
+              essential
+              description="The book. Dartnell is an astrobiologist who asked a simple question: if civilization collapsed, what would you need to know to restart it? Agriculture, materials, medicine, power, transport, communication. Every chapter is a blueprint for recovery. This is the manual you want on the shelf when the lights go out."
             />
             <Book
-              title="How to Stay Alive in the Woods"
-              author="Bradford Angier"
-              description="A classic first published in 1956. Practical, no-nonsense, covers the basics of shelter, fire, water, food, and navigation. Less philosophical than Brown, more concise. Good second book after the Tom Brown guides."
+              title="Deep Survival: Who Lives, Who Dies, and Why"
+              author="Laurence Gonzales"
+              description="The psychology of survival. Gonzales studied hundreds of survival situations and found that the people who live are not always the strongest or most experienced. They are the ones who manage their own minds. The chapter on how panic kills is worth the price of the book."
             />
             <Book
               title="Bushcraft"
@@ -58,9 +59,9 @@ export default function Library() {
               description="The Canadian classic. Kochanski was a wilderness living instructor for over 40 years. Exceptional cold-weather focus. relevant for New England winters. His knife and axe work chapters are unmatched. If you live where it gets cold, read this."
             />
             <Book
-              title="US Army Survival Manual (FM 21-76)"
-              author="Department of the Army"
-              description="Dry, clinical, comprehensive. Covers global environments and scenarios. The psychology of survival chapter is particularly valuable. Free PDF available. Good reference to keep on hand but harder to learn from than Brown or Kochanski."
+              title="When There Is No Doctor"
+              author="Gerard S. Doyle, MD"
+              description="Medical guide written for situations where professional healthcare is unavailable. Covers wound care, infections, chronic disease management, dental emergencies, childbirth, and when to attempt treatment versus when to wait. Updated and practical. Keep this next to the first aid kit."
             />
           </div>
 
