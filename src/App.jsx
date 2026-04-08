@@ -1,4 +1,5 @@
-import { Routes, Route } from 'react-router-dom'
+import { useEffect } from 'react'
+import { Routes, Route, useLocation } from 'react-router-dom'
 import Layout from './components/Layout'
 import Home from './pages/Home'
 import Story from './pages/Story'
@@ -13,23 +14,32 @@ import Library from './pages/Library'
 import WaterSafety from './pages/WaterSafety'
 import Shelter from './pages/Shelter'
 
+function ScrollToTop() {
+  const { pathname } = useLocation()
+  useEffect(() => { window.scrollTo(0, 0) }, [pathname])
+  return null
+}
+
 export default function App() {
   return (
-    <Routes>
-      <Route path="/" element={<Layout />}>
-        <Route index element={<Home />} />
-        <Route path="story" element={<Story />} />
-        <Route path="wampum" element={<Wampum />} />
-        <Route path="field-guide" element={<FieldGuide />} />
-        <Route path="field-guide/fire" element={<FireCraft />} />
-        <Route path="field-guide/medicinal-plants" element={<MedicinalPlants />} />
-        <Route path="field-guide/wild-foods" element={<WildFoods />} />
-        <Route path="field-guide/community-gardens" element={<CommunityGardens />} />
-        <Route path="field-guide/water" element={<WaterSafety />} />
-        <Route path="field-guide/shelter" element={<Shelter />} />
-        <Route path="community" element={<Community />} />
-        <Route path="library" element={<Library />} />
-      </Route>
-    </Routes>
+    <>
+      <ScrollToTop />
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="story" element={<Story />} />
+          <Route path="wampum" element={<Wampum />} />
+          <Route path="field-guide" element={<FieldGuide />} />
+          <Route path="field-guide/fire" element={<FireCraft />} />
+          <Route path="field-guide/medicinal-plants" element={<MedicinalPlants />} />
+          <Route path="field-guide/wild-foods" element={<WildFoods />} />
+          <Route path="field-guide/community-gardens" element={<CommunityGardens />} />
+          <Route path="field-guide/water" element={<WaterSafety />} />
+          <Route path="field-guide/shelter" element={<Shelter />} />
+          <Route path="community" element={<Community />} />
+          <Route path="library" element={<Library />} />
+        </Route>
+      </Routes>
+    </>
   )
 }

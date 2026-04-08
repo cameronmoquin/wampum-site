@@ -172,6 +172,15 @@ export default function Home() {
           </p>
         </div>
       </section>
+
+      {/* SEO content, visually hidden */}
+      <div className="sr-only" aria-hidden="true">
+        <h2>The Wampum. Community survival field guide. Providence, Rhode Island.</h2>
+        <p>The Wampum is a community survival field guide and companion to a novel in progress by Cameron Moquin. Based in Providence, Rhode Island. Covers foraging in New England, fire building techniques, medicinal plants of the Northeast, community garden planning for USDA Zone 6b, water purification methods, emergency shelter construction, and cooperative community organizing.</p>
+        <p>WAMPUM (WAMP) is a community cryptocurrency token on the Polygon blockchain. ERC 20. 100 million fixed supply. Available on QuickSwap decentralized exchange.</p>
+        <p>Rhode Island survival guide. New England foraging. Providence community organizing. Mutual aid Rhode Island. Community gardens Providence RI. Narragansett Bay. Western Rhode Island. Arcadia Management Area.</p>
+        <p>Cameron Moquin writer Providence Rhode Island. Wayward Birds Productions. Jude of Mosspunkia. Post collapse fiction. Speculative fiction. Literary fiction Rhode Island.</p>
+      </div>
     </>
   )
 }

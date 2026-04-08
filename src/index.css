@@ -29,6 +29,7 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
   }
 
   body {
@@ -36,20 +37,42 @@
     background-color: var(--color-cream);
     color: var(--color-charcoal);
     line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
   }
 
   h1, h2, h3, h4 {
     font-family: var(--font-serif);
     line-height: 1.2;
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
 
   ::selection {
-    background-color: var(--color-moss);
+    background-color: var(--color-charcoal);
     color: white;
   }
 
   blockquote {
     font-family: var(--font-serif);
     font-style: italic;
+  }
+
+  /* Mobile touch targets */
+  @media (max-width: 640px) {
+    a, button {
+      min-height: 44px;
+      min-width: 44px;
+    }
+
+    .prose ul, .prose ol {
+      padding-left: 1rem;
+    }
+  }
+
+  /* Prevent horizontal scroll on mobile */
+  img, video, iframe, table {
+    max-width: 100%;
   }
 }

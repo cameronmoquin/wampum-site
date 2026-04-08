@@ -9,7 +9,7 @@ function NavLink({ to, children, onClick }) {
     <Link
       to={to}
       onClick={onClick}
-      className={`block px-3 py-2 text-sm font-medium tracking-wide transition-colors no-underline
+      className={`block px-3 py-3 sm:py-2 text-sm font-medium tracking-wide transition-colors no-underline
         ${isActive
           ? 'text-charcoal border-b-2 border-charcoal'
           : 'text-smoke hover:text-charcoal'
