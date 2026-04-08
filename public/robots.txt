@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thewampum.com/sitemap.xml

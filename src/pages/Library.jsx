@@ -33,19 +33,19 @@ export default function Library() {
               title="Field Guide to Wilderness Survival"
               author="Tom Brown Jr."
               essential
-              description="THE foundational text. Tom Brown learned from Stalking Wolf, a Lipan Apache elder who spent his life traveling the Americas practicing and preserving earth skills. This book covers shelter, fire, water, food, tools, and tracking with a depth that no other survival book matches. It is not a weekend camping guide. It is a manual for living in the woods with nothing. Start here."
+              description="The foundational text. Brown learned from Stalking Wolf, a Lipan Apache elder who spent his life practicing and preserving earth skills. Shelter, fire, water, food, tools, tracking. No other survival book covers this range at this depth. Start here."
             />
             <Book
-              title="Field Guide to Wild Edible and Medicinal Plants"
-              author="Tom Brown Jr."
+              title="The Book: The Ultimate Guide to Rebuilding Civilization"
+              author="Hungry Minds"
               essential
-              description="The companion to the survival guide. Identification, preparation, and medicinal use of Northeast species. Brown's approach combines indigenous knowledge with field-tested practice. The illustrations are hand-drawn and specific enough for confident identification."
+              description="Over 400,000 copies sold. Hand illustrated encyclopedia of every major invention and discovery in human history. Agriculture, electricity, medicine, materials, communication, transport. The premise is simple: if you had to rebuild, what would you need to know? This is the answer. 400 pages of it."
             />
             <Book
               title="The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm"
               author="Lewis Dartnell"
               essential
-              description="The book. Dartnell is an astrobiologist who asked a simple question: if civilization collapsed, what would you need to know to restart it? Agriculture, materials, medicine, power, transport, communication. Every chapter is a blueprint for recovery. This is the manual you want on the shelf when the lights go out."
+              description="Dartnell is an astrobiologist who asked a direct question: if civilization collapsed, what would you need to know to restart it? Agriculture, materials, medicine, power, transport, communication. Every chapter is a blueprint for recovery."
             />
             <Book
               title="Deep Survival: Who Lives, Who Dies, and Why"

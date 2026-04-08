@@ -112,19 +112,16 @@ export default function Home() {
           </h2>
           <div className="space-y-6 font-serif text-base sm:text-lg text-white/60 leading-loose italic">
             <p>
-              This is a field guide. It is also a story. It is also a ledger.
+              This is a supplement to a novel in progress. The novel is about a community in western Rhode Island that has to learn to stop fighting within itself in order to survive.
             </p>
             <p>
-              We built it because we believe practical knowledge should be written
-              down before it is needed. Because the people who will need it most
-              may not have time to learn it from scratch. Because a community that
-              shares what it knows is harder to break than one that does not.
+              The conflict in the story is not left versus right. It is left versus left. People who agree on the big things tearing each other apart over the small ones. The community that makes it is the one that figures out how to stop doing that.
             </p>
             <p>
-              The field guide is real. The survival knowledge is real. The token
-              is real. 100 million WAMP on the Polygon blockchain, minted April 2026,
-              immutable and ownerless. The story wrapped around all of it is fiction,
-              but only barely, and only for now.
+              The field guide is real. The survival knowledge is real. The token is real. 100 million WAMP on the Polygon blockchain, minted April 2026. The story wrapped around all of it is fiction. Only barely. Only for now.
+            </p>
+            <p>
+              This site collects the practical knowledge the characters in the novel need to survive. Fire, food, water, shelter, medicine, cooperative governance. All of it researched, all of it usable. If the novel becomes unnecessary, good. If it doesn't, this is here.
             </p>
           </div>
         </div>
